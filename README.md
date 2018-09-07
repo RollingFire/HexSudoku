@@ -1,1 +1,1 @@
-If you have ever played Sudoku, then you know that the numbers that you use is 1-9. HexSudoku, on the other hand, is hexadecimal or 0-F. The game will generates new puzzles for you to play. This project was writen in C++. It is one of my first major programs and my first using OpenGL.
+If you have ever played Sudoku, then you know that the numbers that you use are 1-9. HexSudoku, on the other hand, is hexadecimal or 0-F. The game will generate new puzzles for you to play. This project was written in C++. It is one of my first major programs and my first using OpenGL.
